@@ -1,0 +1,5 @@
+model,domain,intercept,slope
+Logistic regression,source_test,0.08240684591146309,1.038124700990059
+Logistic regression,target_test,-0.42224944137134446,0.86240882151226
+Gradient boosting,source_test,0.09504780124468053,1.1044097315119827
+Gradient boosting,target_test,-0.36596832653479144,0.9871008310125026

@@ -1,0 +1,5 @@
+model,calibration_sample,intercept,slope
+Logistic regression,source_cal,-0.04191402273716961,0.9705767766151828
+Logistic regression,target_cal,-0.46551369092416006,0.8079133356503211
+Gradient boosting,source_cal,0.018193415405863514,1.0476289328133317
+Gradient boosting,target_cal,-0.3768582333485972,0.9433646419695882

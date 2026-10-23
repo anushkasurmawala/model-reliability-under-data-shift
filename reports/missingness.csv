@@ -1,0 +1,3 @@
+population,age,education-num,capital-gain,capital-loss,hours-per-week,workclass,marital-status,occupation,relationship,race,sex
+Foreign-born,0.0,0.0,0.0,0.0,0.0,0.053838725253500724,0.0,0.053838725253500724,0.0,0.0,0.0
+US-born,0.0,0.0,0.0,0.0,0.0,0.05768176835951772,0.0,0.05791012056996712,0.0,0.0,0.0

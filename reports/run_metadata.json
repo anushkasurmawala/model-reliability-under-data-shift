@@ -1,0 +1,22 @@
+{
+  "seed": 2026,
+  "bootstrap_replicates": 500,
+  "audit": {
+    "raw_rows": 48842,
+    "unknown_birthplace_removed": 857,
+    "exact_duplicates_removed": 51,
+    "conflicting_label_rows_retained": 3893,
+    "retained_rows": 47934,
+    "unique_predictor_groups": 40524
+  },
+  "python": "3.12.7",
+  "sklearn": "1.5.1",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "matplotlib": "3.9.2",
+  "raw_sha256": {
+    "adult.data": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d",
+    "adult.names": "c248284c0b5de30c9e1958d6cdd168a34a654758b620e68f46aefa83fc0a576a",
+    "adult.test": "a2a9044bc167a35b2361efbabec64e89d69ce82d9790d2980119aac5fd7e9c05"
+  }
+}
